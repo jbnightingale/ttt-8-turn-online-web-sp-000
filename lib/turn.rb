@@ -45,5 +45,4 @@ def turn(board)
     puts "Please enter 1-9:"
     turn(board)
   end
-  display_board(board)
 end
